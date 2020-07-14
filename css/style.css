@@ -17,6 +17,28 @@
     src: url("avenir/AvenirLTStd-Roman.otf");
     }
 
+
+    .enlace {
+        background-color:#e3eb78;
+        border-radius:28px;
+        border:1px solid #e6dc57;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-size:17px;
+        padding:16px 31px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #8c8c18;
+    }
+    .enlace:hover {
+        background-color:#d9ca25;
+    }
+    .enlace:active {
+        position:relative;
+        top:1px;
+    }
+
+
 #portfolio{
 
     margin: 5%;
